@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c9c19915-cd1c-4d2d-9d7e-574923a5a3d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,7 +65,9 @@
       <option name="presentableId" value="Default" />
       <updated>1598632234838</updated>
       <workItem from="1598632238115" duration="2235000" />
-      <workItem from="1598664189553" duration="1987000" />
+      <workItem from="1598664189553" duration="2831000" />
+      <workItem from="1598695952463" duration="652000" />
+      <workItem from="1598706397868" duration="6000" />
     </task>
     <servers />
   </component>
@@ -87,6 +90,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1598697499218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598697499218" />
     <state x="616" y="235" key="run.anything.popup" timestamp="1598670700810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

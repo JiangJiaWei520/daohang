@@ -1,4 +1,6 @@
 # 我的导航
+本导航使用简单的js和html搭建而成，暂时废弃，使用hexo搭建
+
 将自己平时常用到的的网站和资源，集合成一个导航页，方便查找浏览
 
-## 项目演示地址： https://jiangjiawei520.github.io/daohang/
+## 项目演示地址： https://daohang.jiang7zzz.xyz/
